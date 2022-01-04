@@ -18,11 +18,11 @@
 
 ## 🗨️ Connect With Me
 
-[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)][discord]
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)][gmail]
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=plastic&logo=discord&logoColor=white)][discord]
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=plastic&logo=facebook&logoColor=white)][facebook]
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)][gmail]
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white)][instagram]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)][linkedin]
 
 [discord]: https://discordapp.com/users/377140613776408588
 [facebook]: https://www.facebook.com/patriche.stefan/
