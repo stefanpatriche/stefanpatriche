@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on...
   - ... **Expanding my Homelab and having fun with it** 🖥️
   - ... **My health and fitness** 💪
+  - ... **Working on my Bachelor Degree Project** 🎓
 - 🌱 I’m currently learning ...
   - *LoraWAN*
   - **Ansible** & **Kubernetes**
