@@ -4,16 +4,11 @@
 
 - 🎓 I'm currently studying at... [University Politehnica of Bucharest](https://international.upb.ro/)
 - 🔭 I’m currently working on...
-  - ... **Expanding my Homelab and having fun with it** 🖥️
-  - ... **My health and fitness** 💪
-  - ... **Working on my Bachelor Degree Project** 🎓
-- 🌱 I’m currently learning ...
+  - ... **Expanding my Homelab and learning new things** 🖥️
+- 🖥️ I’m currently learning ...
   - *LoraWAN*
-  - **Ansible** & **Kubernetes**
+  - **Ansible** & **Kubernetes** & **Terraform**
   - **Deploying web services/microservices via containers/docker to my Homelab**
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 ---
 
